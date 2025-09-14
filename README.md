@@ -106,6 +106,4 @@ This project is the **Google Data Analytics Capstone Case Study**, where I analy
 ---
 
 ## 📫 Contact
-Created by Nik Muhammad Akmal  
-- [LinkedIn](https://www.linkedin.com/in/nmakmal/)
-- [Email](nmakmal.nr@gmail.com) 
+Created by Nik Muhammad Akmal. Connect with me on [LinkedIn](https://www.linkedin.com/in/nmakmal/)
