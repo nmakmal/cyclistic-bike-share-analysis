@@ -84,8 +84,7 @@ This project is the **Google Data Analytics Capstone Case Study**, where I analy
 - **Line Chart** → Ride frequency per hour, average ride duration  
 - **KPI Cards** → Average ride duration, peak season, month, day, and hour  
 
-> 🖼️ Dashboard Overview <img width="7084" height="4500" alt="dashboard_overview" src="https://github.com/user-attachments/assets/deb77019-d369-470a-a1ca-078f638557e4" />
-
+> 🖼️ Dashboard Overview ![Dashboard Overview](images/dashboard_overview.png)
 
 ---
 
